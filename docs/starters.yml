@@ -3087,3 +3087,13 @@
     - Static Marketing pages and Dynamic Client-side Authenticated App pages
     - SEO component
     - Apollo GraphQL (client-side)
+- url: https://gatsby-starter-grommetv2-netlifycms.netlify.com/
+  repo: https://github.com/TheWeeezel/gatsby-starter-grommetv2-netlifycms/
+  description: A starter including Grommet v2 and Netlify CMS as headless CMS to edit the available pages. Very simple setup.
+  tags:
+    - Grommet v2
+    - Netlify CMS
+    - Gatsby
+  features:
+    - Barebones configuration for using the Grommet design system
+    - Barebones configuration for using Netlify CMS headless CMS system
